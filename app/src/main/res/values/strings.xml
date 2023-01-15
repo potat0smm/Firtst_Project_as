@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="sales_icon">Sales</string>
+    <string name="catalog_text">Каталог</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="logo">Video</string>
+    <string name="logo_two">Cards</string>
+    <string name="video_one">Видеокарта Gigabyte GeForce RTX 3080\n
+         Ti GAMING OC 12GB</string>
+    <string name="video_two">Видеокарта Palit NVIDIA GeForce RTX 3080</string>
+
+
+</resources>
